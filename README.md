@@ -7,18 +7,17 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-1. 
-2. 
-3. 
-4. 
+## Algorithm:
+1.Import the libraries and read the data frame using pandas.
+2.Calculate the null values from dataframe and apply label encoder.
+3.Apply decision tree classifier on the dataframe.
+4.obtain the value of accuracy and data prediction.
 
 ## Program:
 ```
-/*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: 
-RegisterNumber:  
+Developed by: S.Prema Latha
+RegisterNumber:  212222230112
 */
 ```
 

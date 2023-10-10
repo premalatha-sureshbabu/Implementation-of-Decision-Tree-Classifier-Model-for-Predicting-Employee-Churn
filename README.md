@@ -4,8 +4,8 @@
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 
 ## Equipments Required:
-1. Hardware – PCs
-2. Anaconda – Python 3.7 Installation / Jupyter notebook
+1. Hardware – PCs.
+2. Anaconda – Python 3.7 Installation / Jupyter notebook.
 
 ## Algorithm:
 1.Import the libraries and read the data frame using pandas.
